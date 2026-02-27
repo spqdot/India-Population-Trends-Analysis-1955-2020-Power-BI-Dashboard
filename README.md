@@ -24,6 +24,7 @@ Net Migration Dynamics
 
 Yearly Population Growth Rate
 
+![image alt](https://github.com/spqdot/India-Population-Trends-Analysis-1955-2020-Power-BI-Dashboard/blob/main/Fig%201.png)
 
 
 
